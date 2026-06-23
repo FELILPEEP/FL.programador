@@ -1,0 +1,46 @@
+h1 {
+    /*utilizar ; siempre para separar*/
+    color: red;
+    /*color de tipografía*/
+    background-color: yellow;
+    /*fondo de color*/
+    text-transform: uppercase;
+    /*mayúsculas*/
+    text-align: center;
+    /*alineación del texto (centrado)*/
+    text-shadow: 2px 39px 6px rgba(0,0,0,0.59);
+    
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    /*fuente tipográfica*/
+    color: green;
+    font-size: 35px;
+    /*tamaño de la fuente*/
+
+}
+
+p {
+    color: blue;
+
+}
+
+.destacados {
+    color: orange;
+    font-weight: bold;
+    /*peso de la tipografía (negrita)*/
+    font-style: italic;
+    /*itálica*/
+}
+
+#caja{
+    background-color: lightpink;
+    width: 300px; /*ancho*/
+    padding: 20px; /*"margen interno"*/
+    border: 5px solid black;
+    box-sizing: border-box;
+    margin-left: 100px;
+    box-shadow: -1px 16px 49px -14px rgba(0,0,0,0.57);
+
+}
